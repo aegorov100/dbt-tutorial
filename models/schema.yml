@@ -11,3 +11,4 @@ models:
           - not_null
       - name: first_order_date
         description: NULL when a customer has not yet placed an order.
+
